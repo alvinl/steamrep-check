@@ -1,0 +1,14 @@
+{
+  "name": "steamrep-check",
+  "version": "1.0.0",
+  "description": "Add method to Stem's api to lookup a users Steamrep status",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Alvin Lazaro <me@alvinl.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xml2json": "^0.5.0"
+  }
+}
